@@ -2,7 +2,7 @@
   "name": "desafios-frontend-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://thompsoncarlos.github.io/react18-vite-login-mb-ytb/",
+  "homepage": "https://thompsoncarlos.github.io/react18-vite-login-mb-ytb",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
